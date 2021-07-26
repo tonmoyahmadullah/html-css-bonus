@@ -1,0 +1,22 @@
+10_5-1 review flexbox and grid for one more time
+
+-- css trics --
+
+10_5-2 Check out relative and absolute position one more time
+
+-- 000 --
+
+10_5-3 Explore media query one more time
+
+-- Media Query BreakPoint --
+
+10_5-4 Easier way to create CSS animation using animate css
+
+-- animation library --
+-- animated css --
+
+10_5-5 (special) Join conceptual session and concept clear session
+
+
+
+
